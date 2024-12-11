@@ -3,8 +3,8 @@
 I'm a passionate full-stack developer with experience in both front-end and back-end development. I'm currently focused on honing my skills in web development and software engineering, and I love working on exciting and challenging projects.
 
 ## 🌟 Skills & Technologies:
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Front-End Frameworks:** React.js, Bootstrap, jQuery
+- **Languages:** JavaScript, HTML, CSS
+- **Front-End Frameworks:** React.js, Bootstrap
 - **Back-End Frameworks:** Node.js
 - **Databases:**  MongoDB
 - **Version Control:** Git, GitHub
